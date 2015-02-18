@@ -1,0 +1,3 @@
+[submodule "www/default/admin"]
+	path = www/default/admin
+	url = https://github.com/warerwang/phpmyadmin
