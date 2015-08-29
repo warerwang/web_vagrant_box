@@ -1,2 +1,5 @@
 .vagrant/
 www/.gitignore
+!www/default/admin
+!www/default/index.php
+www
